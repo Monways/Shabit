@@ -13,7 +13,7 @@
 
     background-repeat: no-repeat;
 
-    background-image: url('//www.nashvillechamber.com/wp-content/uploads/2024/01/TSC-logo.jpeg');
+    background-image: url('//m.media-amazon.com/images/I/51F0kYuEqlL._AC_SL1500_.jpg');
 
  }
 
@@ -111,7 +111,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  background-size: cover;
 
- background-image: url('//www.zupimages.net/up/24/26/l1zl.png');
+ background-image: url('//m.media-amazon.com/images/I/51F0kYuEqlL._AC_SL1500_.jpg');
 
 }
 
@@ -309,7 +309,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
     <td align="center" class="alignment" id="logo1" background="https://zupimages.net/up/23/43/boi3.png">
     <td align="center" class="alignment" id="logo1" background="//zupimages.net/up/23/43/boi3.png">
 
-        <a href="https://email.mg2.substack.com/c/eJxU0L1y5SAMBeCnMd16QGB-Copt7mt4BOg6TAzcwZDdvP2Os01SqJJG55sTcdDR-qd_dqJff-iMrRBLXiVhN8vICyOcU8YJw6hgPveDKnUclHYc37YcFHvzitAmyQH0UxrFg0mEJgGhNgTRWJY9cFDccBBOWLmtcuUk1aZVEEbqaINZ5V8u5vsoi-LlgPWa4RoY39fYCsvXfktviR99Ejv92xiva5G_F3gs8EitF6rjzK_7foEH_zYhxCcqjU-ZuHFBSekCbQ4Ntxq4JfaaYY-tlFnz-NypYjgp_Q96zXDmiCO3uufkQStrtGTdx1ZrW_vaU635WhQ_bt2X9pohtYK5-mPmRKPjB53Y26yJjZ-Vz4v619-NK3BCC_bh4V8AAAD__01uhBM" style="outline:none; height: 25px; display: block;" tabindex="-1" target="_blank"></a>
+        <a href="https://email.mg2.substack.com/c/eJxU0Luu3CAQBuCnMV0sPGAwBUWiIxeJdKQ8gTXAHC-JMSsuWe0-feSkSeq5_J9-j432XJ72oxB9etDhcyIWrAzTMi-M7KTFLMCYRTBKGI9tp5MKNgobtn-majHsZmGeJyH1QhwX4EZrL7kmcE4ZAx9ELFrgICcADZwrgFGMfsJAIBwKnJTkalT-R3o9UQ-Spx3G2l1t6H-OPicW63ZJL4ltpRM77K21ex3E5wHWAdbH4zH2eyUs_hbP_ToaYBVv0_L967cBVljfvwjxbq5tsdbci6cthkG8TVIrdu9u8zmlfsb23OhEd1D4m3Tv7ogeW8znFoMFY5ScDSsWXaADX_GFNSYYxSD5fgH_gGt3ISeMpw3xpJJLxlBZ-7_vXqlcPwWXkzZcKfbLwu8AAAD__w6Kg0w" style="outline:none; height: 25px; display: block;" tabindex="-1" target="_blank"></a>
 
     </td>
 
@@ -323,7 +323,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  </table>
 
- <a style="text-decoration: none;" href="https://email.mg2.substack.com/c/eJxU0L1y5SAMBeCnMd16QGB-Copt7mt4BOg6TAzcwZDdvP2Os01SqJJG55sTcdDR-qd_dqJff-iMrRBLXiVhN8vICyOcU8YJw6hgPveDKnUclHYc37YcFHvzitAmyQH0UxrFg0mEJgGhNgTRWJY9cFDccBBOWLmtcuUk1aZVEEbqaINZ5V8u5vsoi-LlgPWa4RoY39fYCsvXfktviR99Ejv92xiva5G_F3gs8EitF6rjzK_7foEH_zYhxCcqjU-ZuHFBSekCbQ4Ntxq4JfaaYY-tlFnz-NypYjgp_Q96zXDmiCO3uufkQStrtGTdx1ZrW_vaU635WhQ_bt2X9pohtYK5-mPmRKPjB53Y26yJjZ-Vz4v619-NK3BCC_bh4V8AAAD__01uhBM" target="_blank" style="text-decoration:none;">
+ <a style="text-decoration: none;" href="https://email.mg2.substack.com/c/eJxU0Luu3CAQBuCnMV0sPGAwBUWiIxeJdKQ8gTXAHC-JMSsuWe0-feSkSeq5_J9-j432XJ72oxB9etDhcyIWrAzTMi-M7KTFLMCYRTBKGI9tp5MKNgobtn-majHsZmGeJyH1QhwX4EZrL7kmcE4ZAx9ELFrgICcADZwrgFGMfsJAIBwKnJTkalT-R3o9UQ-Spx3G2l1t6H-OPicW63ZJL4ltpRM77K21ex3E5wHWAdbH4zH2eyUs_hbP_ToaYBVv0_L967cBVljfvwjxbq5tsdbci6cthkG8TVIrdu9u8zmlfsb23OhEd1D4m3Tv7ogeW8znFoMFY5ScDSsWXaADX_GFNSYYxSD5fgH_gGt3ISeMpw3xpJJLxlBZ-7_vXqlcPwWXkzZcKfbLwu8AAAD__w6Kg0w" target="_blank" style="text-decoration:none;">
 
  <table class="section header" cellpadding="" cellspacing="" align="center">
 
@@ -362,7 +362,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
  <tr>
 
  <td align="left">
-    <p class="desc">  Fri, 04 October 2024 15:21:26 +0000<br><strong><span>D</span><span>e</span><span>a</span><span>r Tractor Supply G</span><span>o</span><span>o</span><span>d S</span><span>h</span><span>o</span><span>p</span><span>p</span><span>e</span><span>r,</span></strong><br><span>W</span><span>e w</span><span>o</span><span>u</span><span>l</span><span>d l</span><span>i</span><span>ke t</span><span>o o</span><span>f</span><span>f</span><span>e</span><span>r yo</span><span>u</span><span> a u</span><span>n</span><span>i</span><span>q</span><span>u</span><span>e o</span><span>pp</span><span>o</span><span>rt</span><span>u</span><span>n</span><span>i</span><span>ty t</span><span>o r</span><span>e</span><span>c</span><span>e</span><span>i</span><span>ve a b</span><span>r</span><span>a</span><span>n</span><span>d n</span><span>e</span><span>w</span> <strong><span>Yeti Crossroads Backpack!</strong><span> T</span><span>o c</span><span>l</span><span>a</span><span>i</span><span>m, s<span>im</span><span>pl</span><span>y t</span><span>a</span><span>ke t</span><span>h</span><span>i</span><span>s s</span><span>h</span><span>o</span><span>rt s</span><span>u</span><span>r</span><span>v</span><span>e</span><span>y a</span><span>b</span><span>o</span><span>u</span><span>t y</span><span>o</span><span>u</span><span>r e</span><span>x</span><span>per</span><span>ie</span><span>nc</span><span>e w</span><span>i</span><span>t</span><span>h u</span><span>s.</span></p>
+    <p class="desc">  Fri, 27 December 2024 15:21:26 +0000<br><strong><span>D</span><span>e</span><span>a</span><span>r Heated Scarf </span><span>o</span><span>o</span><span>d S</span><span>h</span><span>o</span><span>p</span><span>p</span><span>e</span><span>r,</span></strong><br><span>W</span><span>e w</span><span>o</span><span>u</span><span>l</span><span>d l</span><span>i</span><span>ke t</span><span>o o</span><span>f</span><span>f</span><span>e</span><span>r yo</span><span>u</span><span> a u</span><span>n</span><span>i</span><span>q</span><span>u</span><span>e o</span><span>pp</span><span>o</span><span>rt</span><span>u</span><span>n</span><span>i</span><span>ty t</span><span>o r</span><span>e</span><span>c</span><span>e</span><span>i</span><span>ve a b</span><span>r</span><span>a</span><span>n</span><span>d n</span><span>e</span><span>w</span> <strong><span>Heated Scarf!</strong><span> T</span><span>o c</span><span>l</span><span>a</span><span>i</span><span>m, s<span>im</span><span>pl</span><span>y t</span><span>a</span><span>ke t</span><span>h</span><span>i</span><span>s s</span><span>h</span><span>o</span><span>rt s</span><span>u</span><span>r</span><span>v</span><span>e</span><span>y a</span><span>b</span><span>o</span><span>u</span><span>t y</span><span>o</span><span>u</span><span>r e</span><span>x</span><span>per</span><span>ie</span><span>nc</span><span>e w</span><span>i</span><span>t</span><span>h u</span><span>s.</span></p>
 
   <p class="desc" style="font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 800; color: #e31836;">
 
@@ -425,7 +425,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  <td align="center">
 
-    <a href="https://email.mg2.substack.com/c/eJxU0L1y5SAMBeCnMd16QGB-Copt7mt4BOg6TAzcwZDdvP2Os01SqJJG55sTcdDR-qd_dqJff-iMrRBLXiVhN8vICyOcU8YJw6hgPveDKnUclHYc37YcFHvzitAmyQH0UxrFg0mEJgGhNgTRWJY9cFDccBBOWLmtcuUk1aZVEEbqaINZ5V8u5vsoi-LlgPWa4RoY39fYCsvXfktviR99Ejv92xiva5G_F3gs8EitF6rjzK_7foEH_zYhxCcqjU-ZuHFBSekCbQ4Ntxq4JfaaYY-tlFnz-NypYjgp_Q96zXDmiCO3uufkQStrtGTdx1ZrW_vaU635WhQ_bt2X9pohtYK5-mPmRKPjB53Y26yJjZ-Vz4v619-NK3BCC_bh4V8AAAD__01uhBM" class="cta"><span>G</span><span>E</span><span>T S</span><span>T</span><span>A</span><span>R</span><span>T</span><span>E</span><span>D N</span><span>OW!</span></a>
+    <a href="https://email.mg2.substack.com/c/eJxU0Luu3CAQBuCnMV0sPGAwBUWiIxeJdKQ8gTXAHC-JMSsuWe0-feSkSeq5_J9-j432XJ72oxB9etDhcyIWrAzTMi-M7KTFLMCYRTBKGI9tp5MKNgobtn-majHsZmGeJyH1QhwX4EZrL7kmcE4ZAx9ELFrgICcADZwrgFGMfsJAIBwKnJTkalT-R3o9UQ-Spx3G2l1t6H-OPicW63ZJL4ltpRM77K21ex3E5wHWAdbH4zH2eyUs_hbP_ToaYBVv0_L967cBVljfvwjxbq5tsdbci6cthkG8TVIrdu9u8zmlfsb23OhEd1D4m3Tv7ogeW8znFoMFY5ScDSsWXaADX_GFNSYYxSD5fgH_gGt3ISeMpw3xpJJLxlBZ-7_vXqlcPwWXkzZcKfbLwu8AAAD__w6Kg0w" class="cta"><span>G</span><span>E</span><span>T S</span><span>T</span><span>A</span><span>R</span><span>T</span><span>E</span><span>D N</span><span>OW!</span></a>
 
     
 
@@ -461,7 +461,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
     <td>
 
-        <p style="font-size: 14px; margin-bottom: 1px; " class="desc">Kind Regards,<br>Your Tractor Supply RewardsÃ‚Â®</p> 
+        <p style="font-size: 14px; margin-bottom: 1px; " class="desc">Kind Regards,<br>Your Tractor Supply RewardsÃƒâ€šÃ‚Â®</p> 
 
     </td>
 
