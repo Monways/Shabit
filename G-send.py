@@ -19,7 +19,7 @@ max_concurrent_threads = 5
 semaphore = threading.Semaphore(max_concurrent_threads)
 
 # Configuration Parameters
-BCC_COUNT = 50  # Number of emails to send per batch
+BCC_COUNT = 20  # Number of emails to send per batch
 DOMAINS_LIST = [
     'cool-backgrounds.org',
     'wsulaw.com',
@@ -339,4 +339,4 @@ while data_count < len(data):
     threading.Thread(target=send_emails, args=(bcc_emails_array,)).start()
     
     # Wait for a random time between batches
-    time.sleep(random.uniform(0.3, 1.0))
+    time.sleep(random.uniform(0.5, 3.0))
