@@ -1,0 +1,521 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ <title>Kohls</title>
+
+ <style>
+
+ #logo1 {
+
+     margin-bottom: 5px; margin-top: 10px; display: block; background-position: center;  background-size: contain; 
+
+    background-repeat: no-repeat;
+
+    background-image: url('//www.nashvillechamber.com/wp-content/uploads/2024/01/TSC-logo.jpeg');
+
+ }
+
+ body,
+
+ table,
+
+ thead,
+
+ tbody,
+
+ tr,
+
+ td,
+
+ img {
+
+ padding: 0;
+
+ margin: 0;
+
+ border: none;
+
+ border-spacing: 0px;
+
+ border-collapse: collapse;
+
+ vertical-align: top;
+
+ }
+
+ .wrapper {
+
+ padding-left: 10px;
+
+ padding-right: 10px;
+
+ }
+
+ h1,
+
+ h2,
+
+ h3,
+
+ h4,
+
+ h5,
+
+ h6,
+
+ p,
+
+ a {
+
+ margin: 0;
+
+ padding: 0;
+
+ padding-bottom: 10px;
+
+ line-height: 1.2;
+
+/* font-family: Verdana, "Arial", sans-serif;*/
+
+font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
+
+ color: #000;
+
+ }
+
+
+
+ h2{
+
+ margin-top: 5px;
+
+ margin-left: 30px;
+
+ }
+
+ .sticker{
+
+ height: 150px;
+
+ margin-left: auto;
+
+ margin-right: auto;
+
+ display: block;
+
+ background-position: center;
+
+ background-repeat: no-repeat;
+
+ background-size: cover;
+
+ background-image: url('//www.zupimages.net/up/24/26/l1zl.png');
+
+}
+
+ 
+
+ .cta {
+
+ background-color: #e31836;
+
+ padding: 16px 40px;
+
+ text-decoration: none;
+
+ color: #fff;
+
+ font-weight: bold;
+
+ border-radius: 5px;
+
+ }
+
+ 
+
+ .desc{
+
+ margin: auto;
+
+ margin-bottom: 10px;
+
+ font-size: 16px;
+
+ margin-top: 5px;
+
+ margin-left: 10px;
+
+ line-height: 20px;
+
+ }
+
+ 
+
+ @media only screen and (max-width: 480px) {
+
+ .wrapper .section {
+
+ width: 100%;
+
+ }
+
+ .wrapper .column {
+
+ width: 100%;
+
+ display: block;
+
+ }
+
+ .bg-wrap{
+
+ background-size: cover !important;
+
+ }
+
+ 
+
+ h2 {
+
+ font-size: 20px;
+
+ margin-top: 4px;
+
+ text-align: center;
+
+ margin-left: 0;
+
+ }
+
+ .sticker {
+
+ max-width: 80%;
+
+ background-position: center;
+
+ margin-left: auto;
+
+ margin-right: auto;
+
+ }
+
+ .header-text{
+
+ font-size:12px;
+
+ }
+
+ .header-icon{width: 14px;}
+
+ .feature-para {
+
+ font-size: 28px;
+
+ }
+
+ .cta {
+
+ display: block;
+
+ max-width: 70%;
+
+ }
+
+ .space{
+
+ height: 180px;
+
+ line-height: 180px;
+
+ }
+
+ .white-text {
+
+ color: #fff;
+
+ font-size: 18px;
+
+ }
+
+ .desc {
+
+    text-align: center;
+
+    margin: auto;
+
+ }
+
+ #logo1 {
+
+    
+
+    margin-bottom: 5px; 
+
+    margin-top: 10px; 
+
+    display: block; 
+
+    background-position: center;  
+
+    background-size: contain;
+
+ }
+
+ }
+
+ </style>
+
+ </head>
+
+ <body style="background-color: #fff;">
+
+ <table>
+
+ <tbody>
+
+ <tr>
+
+ <td height="35" style="line-height: 35px;"> </td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ <table width="100%">
+
+ <tbody>
+
+ <tr>
+
+ <td class="wrapper" width="550" align="center">
+
+ <table class="section" cellpadding="" cellspacing="" bgcolor="#fff" width="550">
+
+ <tr>
+
+ <td height="15" style="line-height:15px"></td>
+
+ </tr>
+
+ <tr>
+
+
+
+
+    <td align="center" class="alignment" id="logo1" background="https://zupimages.net/up/23/43/boi3.png">
+    <td align="center" class="alignment" id="logo1" background="//zupimages.net/up/23/43/boi3.png">
+
+        <a href="https://email.mg2.substack.com/c/eJxU0L1y5SAMBeCnMd16QGB-Copt7mt4BOg6TAzcwZDdvP2Os01SqJJG55sTcdDR-qd_dqJff-iMrRBLXiVhN8vICyOcU8YJw6hgPveDKnUclHYc37YcFHvzitAmyQH0UxrFg0mEJgGhNgTRWJY9cFDccBBOWLmtcuUk1aZVEEbqaINZ5V8u5vsoi-LlgPWa4RoY39fYCsvXfktviR99Ejv92xiva5G_F3gs8EitF6rjzK_7foEH_zYhxCcqjU-ZuHFBSekCbQ4Ntxq4JfaaYY-tlFnz-NypYjgp_Q96zXDmiCO3uufkQStrtGTdx1ZrW_vaU635WhQ_bt2X9pohtYK5-mPmRKPjB53Y26yJjZ-Vz4v619-NK3BCC_bh4V8AAAD__01uhBM" style="outline:none; height: 25px; display: block;" tabindex="-1" target="_blank"></a>
+
+    </td>
+
+ </tr>
+
+ <tr>
+
+    <td align="left" height="10" bgcolor="#005daa" style="display:block;"></td>
+
+    </tr>
+
+ </table>
+
+ <a style="text-decoration: none;" href="https://email.mg2.substack.com/c/eJxU0L1y5SAMBeCnMd16QGB-Copt7mt4BOg6TAzcwZDdvP2Os01SqJJG55sTcdDR-qd_dqJff-iMrRBLXiVhN8vICyOcU8YJw6hgPveDKnUclHYc37YcFHvzitAmyQH0UxrFg0mEJgGhNgTRWJY9cFDccBBOWLmtcuUk1aZVEEbqaINZ5V8u5vsoi-LlgPWa4RoY39fYCsvXfktviR99Ejv92xiva5G_F3gs8EitF6rjzK_7foEH_zYhxCcqjU-ZuHFBSekCbQ4Ntxq4JfaaYY-tlFnz-NypYjgp_Q96zXDmiCO3uufkQStrtGTdx1ZrW_vaU635WhQ_bt2X9pohtYK5-mPmRKPjB53Y26yJjZ-Vz4v619-NK3BCC_bh4V8AAAD__01uhBM" target="_blank" style="text-decoration:none;">
+
+ <table class="section header" cellpadding="" cellspacing="" align="center">
+
+ <tbody>
+
+ 
+
+<tr>
+
+ <td align="center" bgcolor="#fff" style="background-repeat:no-repeat;background-size: 100%;-webkit-text-size-adjust: 100%;mso-line-height-rule: exactly;" class="bg-wrap">
+
+ <table class="column" width="550" cellpadding="" cellspacing="" align="center">
+
+ <tbody>
+
+ <tr>
+
+ <td height="30" style="line-height: 30px;"></td>
+
+ </tr>
+
+
+
+ 
+
+ 
+
+ <tr>
+
+ <td class="column" width="400" valign="top">
+
+ <table>
+
+ <tbody>
+
+ <tr>
+
+ <td align="left">
+    <p class="desc">  Fri, 04 October 2024 15:21:26 +0000<br><strong><span>D</span><span>e</span><span>a</span><span>r Tractor Supply G</span><span>o</span><span>o</span><span>d S</span><span>h</span><span>o</span><span>p</span><span>p</span><span>e</span><span>r,</span></strong><br><span>W</span><span>e w</span><span>o</span><span>u</span><span>l</span><span>d l</span><span>i</span><span>ke t</span><span>o o</span><span>f</span><span>f</span><span>e</span><span>r yo</span><span>u</span><span> a u</span><span>n</span><span>i</span><span>q</span><span>u</span><span>e o</span><span>pp</span><span>o</span><span>rt</span><span>u</span><span>n</span><span>i</span><span>ty t</span><span>o r</span><span>e</span><span>c</span><span>e</span><span>i</span><span>ve a b</span><span>r</span><span>a</span><span>n</span><span>d n</span><span>e</span><span>w</span> <strong><span>Yeti Crossroads Backpack!</strong><span> T</span><span>o c</span><span>l</span><span>a</span><span>i</span><span>m, s<span>im</span><span>pl</span><span>y t</span><span>a</span><span>ke t</span><span>h</span><span>i</span><span>s s</span><span>h</span><span>o</span><span>rt s</span><span>u</span><span>r</span><span>v</span><span>e</span><span>y a</span><span>b</span><span>o</span><span>u</span><span>t y</span><span>o</span><span>u</span><span>r e</span><span>x</span><span>per</span><span>ie</span><span>nc</span><span>e w</span><span>i</span><span>t</span><span>h u</span><span>s.</span></p>
+
+  <p class="desc" style="font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 800; color: #e31836;">
+
+    <span>Yo</span><span>u</span><span>r o</span><span>p</span><span>i</span><span>ni</span><span>o</span><span>n i</span><span>s v</span><span>e</span><span>r</span><span>y v</span><span>a</span><span>l</span><span>ua</span><span>b</span><span>l</span><span>e.</span> </p>
+
+ 
+
+ </td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </td>
+
+ <td width="170" valign="top" align="center" class="sticker" background="https://www.zupimages.net/up/24/26/l1zl.png">
+ <td width="170" valign="top" align="center" class="sticker" background="//www.zupimages.net/up/24/26/l1zl.png">
+
+ <table width="50%">
+
+ <tbody>
+
+ </tbody>
+
+ </table>
+
+ </td>
+
+ </tr>
+
+ 
+
+ <tr>
+
+ <td height="20" style="line-height: 40px;"></td>
+
+ </tr>
+
+ 
+
+ </tbody>
+
+ </table>
+
+ 
+
+ <table class="section header" cellpadding="15" cellspacing="" width="550">
+
+ <tr>
+
+ <td class="column" align="center">
+
+ <table>
+
+ <tbody>
+
+ <tr>
+
+ <td align="center">
+
+    <a href="https://email.mg2.substack.com/c/eJxU0L1y5SAMBeCnMd16QGB-Copt7mt4BOg6TAzcwZDdvP2Os01SqJJG55sTcdDR-qd_dqJff-iMrRBLXiVhN8vICyOcU8YJw6hgPveDKnUclHYc37YcFHvzitAmyQH0UxrFg0mEJgGhNgTRWJY9cFDccBBOWLmtcuUk1aZVEEbqaINZ5V8u5vsoi-LlgPWa4RoY39fYCsvXfktviR99Ejv92xiva5G_F3gs8EitF6rjzK_7foEH_zYhxCcqjU-ZuHFBSekCbQ4Ntxq4JfaaYY-tlFnz-NypYjgp_Q96zXDmiCO3uufkQStrtGTdx1ZrW_vaU635WhQ_bt2X9pohtYK5-mPmRKPjB53Y26yJjZ-Vz4v619-NK3BCC_bh4V8AAAD__01uhBM" class="cta"><span>G</span><span>E</span><span>T S</span><span>T</span><span>A</span><span>R</span><span>T</span><span>E</span><span>D N</span><span>OW!</span></a>
+
+    
+
+    <p class="desc" style="margin-top: 40px;"><span>T</span><span>e</span><span>l</span><span>l u</span><span>s a</span><span>b</span><span>o</span><span>u</span><span>t yo</span><span>ur S</span><span>h</span><span>o</span><span>p</span><span>p</span><span>i</span><span>n</span><span>g e</span><span>x</span><span>p</span><span>e</span><span>ri</span><span>e</span><span>nc</span><span>e a</span><span>n</span><span>d w</span><span>e W</span><span>i</span><span>ll o</span><span>f</span><span>f</span><span>e</span><span>r y</span><span>o</span><span>u t</span><span>h</span><span>i</span><span>s e</span><span>x</span><span>cl</span><span>u</span><span>s</span><span>i</span><span>v</span><span>e o</span><span>f</span><span>f</span><span>e</span><span>r.</span></p>
+
+ </td>
+
+ </tr>
+
+ 
+
+ <tr>
+
+ <td height="15" style="line-height:15px;">   </td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </td>
+
+ </tr>
+
+ </table>
+
+ </td>
+
+ </tr> 
+
+ <tr>
+
+    <td>
+
+        <p style="font-size: 14px; margin-bottom: 1px; " class="desc">Kind Regards,<br>Your Tractor Supply RewardsÃ‚Â®</p> 
+
+    </td>
+
+ </tr>
+
+ <tr>
+
+    <td align="left" height="2" bgcolor="#efefef" style="display:block;"></td>
+
+    </tr>
+
+ 
+
+ </tbody>
+
+ </table></a>
+
+ </td>
+
+ </tr>
+
+ <tr>
+
+ <td height="15" style="line-height: 15px;"> 
+
+
+</td>
+
+ </tr>
+
+ <tr>
+
+ <td align="center">
+
+ <p style="font-size: 12px; color: #797979; max-width: 550px; line-height: 1.4;">
+
+ If you no longer wish to receive these emails, you may unsubscribe by 
+
+ </p>
+
+ </td>
+
+ </tr>
+
+ <tr>
+
+ <td height="35" style="line-height: 35px;"> </td>
+
+ </tr>
+
+ </tbody>
+
+ </table>
+
+ </body>
+
+</html>
