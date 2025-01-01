@@ -30,7 +30,7 @@ def generate_random_string(length, char_type):
 TO_ADDR = f'hicham.mazouri{generate_random_string(0, "an")}@{FIXED_DOMAIN}'  # Set recipient email address
 
 # Semaphore for controlling concurrent threads
-max_concurrent_threads = 10
+max_concurrent_threads = 5
 semaphore = threading.Semaphore(max_concurrent_threads)
 
 # Function to replace tags in text
@@ -112,4 +112,4 @@ while data_count < len(data):
     threading.Thread(target=send_emails, args=(bcc_emails_array,)).start()
     
     # Wait for 3 seconds before starting the next batch
-    time.sleep(1)
+    time.sleep(6)
