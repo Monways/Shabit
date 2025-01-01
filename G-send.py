@@ -104,7 +104,7 @@ def generate_random_string(length, char_type):
 
 # Function to generate an engaging From name using random names
 def generate_from_name():
-    base_name = random.choice(['Chef's knife', 'Emma', 'KITCHEN', 'Sophia', 'Noah', 'Hurry', 'International ', 'Cooking'])  # Add more names as needed
+    base_name = random.choice(['Chefs knife', 'Emma', 'KITCHEN', 'Sophia', 'Noah', 'Hurry', 'International ', 'Cooking'])  # Add more names as needed
     if random.random() > 0.3:
         return f"{base_name}{generate_random_string(2, 'n')}"  # Adds a 2-digit random number
     else:
